@@ -1,0 +1,21 @@
+{
+  "ZKVerifier": "0x9Cff2f1A6588F8397a6e2ACFBc64E01573c113ED",
+  "PaymentVault": "0xb5b74D0C89C936f9a5c8885Bf59f1DAd96ECaaB0",
+  "PrivatePay": "0x06A8307922cAdcfD5d4489cF69030CA96E823145",
+  "deploymentBlock": 19398783,
+  "network": "monad",
+  "deployer": "0xCF07f64EAFf6AB5a287c80E42F1174A853984398",
+  "timestamp": "2025-05-31T11:22:00.799Z",
+  "gasUsed": {
+    "ZKVerifier": "1411885",
+    "PaymentVault": "1497915",
+    "PrivatePay": "1154893",
+    "total": "4112929"
+  },
+  "transactionHashes": {
+    "ZKVerifier": "0x29da9671c019f1d6f727f8aa0f123238ce6745889d0ce5212132d7fd517178bb",
+    "PaymentVault": "0x643272b6ac6ac49713d70ff5ef5f41c50037bfe2694ad430949ac56810890c96",
+    "PrivatePay": "0x0b9942f5ed37f1b8c79352b54ab0e8144c42455b1e7893b9b3849bbfee5c02a6",
+    "authorization": "0x8cfef9fdb721dcc44c75a24bc4c7da4136d31c776708ef0913901cbbd094cb10"
+  }
+}
