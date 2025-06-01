@@ -379,39 +379,6 @@ npm run zk:verify
 - **Block Confirmation**: <2 second finality
 - **Throughput**: 1000+ private payments per second
 
----
-
-## 🚦 **Roadmap**
-
-### **Q1 2024 - Foundation** ✅
-
-- [x] Smart contract deployment
-- [x] Basic ZK proof integration
-- [x] AI agent framework
-- [x] Monad testnet deployment
-
-### **Q2 2024 - Enhancement** 🚧
-
-- [ ] Advanced ZK circuits
-- [ ] Mobile app interface
-- [ ] Multi-token support
-- [ ] Privacy pool optimization
-
-### **Q3 2024 - Scale** 🔮
-
-- [ ] Mainnet deployment
-- [ ] Cross-chain bridges
-- [ ] Enterprise features
-- [ ] Compliance tools
-
-### **Q4 2024 - Ecosystem** 🌟
-
-- [ ] Developer SDK
-- [ ] Third-party integrations
-- [ ] Privacy marketplace
-- [ ] Institutional features
-
----
 
 ## 👥 **Team**
 
